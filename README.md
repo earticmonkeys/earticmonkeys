@@ -16,3 +16,7 @@ I am a fresh graduated from Khon Kaen University in Computer Science Major. I ha
 **Web Development**
 
 ![  ](https://github-readme-tech-stack.vercel.app/api/cards?title=++&align=center&showBorder=false&lineCount=2&hideBg=true&hideTitle=true&line1=react%2Creact%2C1eaeec%3Bmui%2CMaterial+UI%2C0b3cf2%3Bbootstrap%2Cbootstrap%2C9c0cf7%3Bhtml5%2Chtml%2Ced7070%3B&line2=node.js%2CNode.js%2C15ff1a%3Bexpress%2Cexpress%2Cffffff%3Bmongodb%2CMongodb%2C00ff0f%3BFirebase%2Cfirebase%2Cff4200%3B)
+
+**Android Development**
+
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&hideBg=true&hideTitle=true&line1=kotlin%2Ckotlin%2C0890ff%3BAndroid%2CAndroid+Studio%2C007503%3Breact%2CReact+Native%2C0053ff%3BExpo%2Cexpo%2Cffffff%3B)
