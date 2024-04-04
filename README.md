@@ -4,4 +4,4 @@
 
 <p>🎈 In addition to Software Development, I am interest in UX/UI Design, Quality Assurance also Art and Music.</p>
 <br>
-<h1>📮 CONTACT</h1>
+<h2>📮 CONTACT</h2>
