@@ -19,4 +19,4 @@ I am a fresh graduated from Khon Kaen University in Computer Science Major. I ha
 
 **Android Development**
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&hideBg=true&hideTitle=true&line1=kotlin%2Ckotlin%2C0890ff%3BAndroid%2CAndroid+Studio%2C007503%3Breact%2CReact+Native%2C0053ff%3BExpo%2Cexpo%2Cffffff%3B)
+![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&hideBg=true&hideTitle=true&line1=kotlin%2Ckotlin%2C0890ff%3BAndroid%2CAndroid+Studio%2C007503%3Breact%2CReact+Native%2C0053ff%3BExpo%2Cexpo%2Cffffff%3B)
