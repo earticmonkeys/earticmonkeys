@@ -23,4 +23,4 @@ I am a fresh graduated from Khon Kaen University in Computer Science Major. I ha
 
 ## ⌨ Project
 
-⋅⋅* Graduation Verification System using for College of Computing, Khon Kaen University ###Maintaining
+• **Graduation Verification System using for College of Computing, Khon Kaen University**  **Maintaining**
