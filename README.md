@@ -29,4 +29,7 @@ I am a fresh graduated from Khon Kaen University in Computer Science Major. I ha
 
 ## ⌨ Project
 
-• **Graduation Verification System using for College of Computing, Khon Kaen University**  **Maintaining**
+• **Graduation Verification System using for College of Computing, Khon Kaen University**  
+    ระบบตรวจสอบการสำเร็จการศึกษา กรณีศึกษา วิทยาลัยการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น 
+• **[Museek Music Streaming](https://github.com/terraexrth/Museek)**
+• **(Still Learning) Gloom , จัดการงานกลุ่ม**   
