@@ -1,6 +1,12 @@
 
 # Hello World 🌎 
 
+<p align=”center”>
+
+<img width=”200" height=”200" src=”[https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://pic.in.th/image/gtoaxO)" alt=”my banner”>
+
+</p>
+
 I am a fresh graduated from Khon Kaen University in Computer Science Major. I have discovered that I enjoy designing and developing websites or mobile applications. After completing an internship as a mobile developer, I became increasingly confident that this is my path!! I love software development so much, perhaps because I also have a passion for design, so I always feel happy whenever I get to develop something according to the design I've sketched out.
 
 🎈 In addition to Software Development, I am interest in UX/UI Design, Quality Assurance also Art and Music.
