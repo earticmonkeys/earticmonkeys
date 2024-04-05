@@ -14,7 +14,7 @@ I am a fresh graduated from Khon Kaen University in Computer Science Major. I ha
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/portfolio_2023-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://terraexrth.github.io/](https://terraexrth-port.pages.dev/)
+[![portfolio](https://img.shields.io/badge/portfolio_2023-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://terraexrth-port.pages.dev/)
 [![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jrchjirapat/)
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCw1UQFNbBOVZu089MIuGgLg)
 
