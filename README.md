@@ -31,4 +31,7 @@ I am a fresh graduated from Khon Kaen University in Computer Science Major. I ha
 
 • **Graduation Verification System using for College of Computing, Khon Kaen University**  <br>
 • **[Museek Music Streaming](https://github.com/terraexrth/Museek)**<br>
-• **[Gloom , จัดการงานกลุ่ม (In Dev)](https://github.com/terraexrth/Gloom)**   
+• **[Gloom , จัดการงานกลุ่ม (In Dev)](https://github.com/terraexrth/Gloom)**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terraexrth&layout=compact)
+
