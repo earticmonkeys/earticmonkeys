@@ -20,8 +20,7 @@ I am a fresh graduated from Khon Kaen University in Computer Science Major. I ha
 
 ## 🖥 Tech Stack
 
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&theme=tailwindcss&hideBg=true&hideTitle=true&line1=next.js%2Cnext.js%2Cffffff%3Breact%2Creact%2C00eaff%3Btypescript%2Ctypescript%2C006dff%3Bjavascript%2Cjavascript%2Cffd500%3Bmui%2Cmaterial%2C008aff%3Bmantine%2Cmantine%2C127b5c&line2=node.js%2Cnode.js%2C14ff00%3Bexpress%2Cexpress%2Cffe800%3Bline%2Cmessaging+api+%26+LIFF%2C57ff00%&line3=%3Bprisma%2Cprisma%2C2D3748postgresql%2Cpostgresql%2C336791%3B)
-
+![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&theme=tailwindcss&hideBg=true&hideTitle=true&line1=next.js%2Cnext.js%2Cffffff%3Breact%2Creact%2C00eaff%3Btypescript%2Ctypescript%2C006dff%3Bjavascript%2Cjavascript%2Cffd500%3Bmui%2Cmaterial%2C008aff%3Bmantine%2Cmantine%2C127b5c&line2=node.js%2Cnode.js%2C14ff00%3Bexpress%2Cexpress%2Cffe800%3Bline%2Cmessaging+api+%26+LIFF%2C57ff00%3Bdigitalocean%2Cdigitalocean%2C0080FF%3Blightsail%2Clightsail%2CFF9900&line3=prisma%2Cprisma%2C2D3748%3Bpostgresql%2Cpostgresql%2C336791%3B)
 
 
 ## ⌨ Project
