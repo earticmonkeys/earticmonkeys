@@ -21,7 +21,7 @@ I am a fresh graduated from Khon Kaen University in Computer Science Major. I ha
 ## 🖥 Tech Stack
 **Web Development**
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&theme=tailwindcss&hideBg=true&hideTitle=true&line1=next.js%2Cnext.js%2Cffffff%3Breact%2Creact%2C00eaff%3Btypescript%2Ctypescript%2C006dff%3Bjavascript%2Cjavascript%2Cffd500%3Bmui%2Cmaterial%2C008aff%3Bmantine%2Cmantine%2C127b5c%3Bnode.js%2Cnode.js%2C14ff00%3Bexpress%2Cexpress%2Cffe800%3Bline%2Cmessaging+api+%26+LIFF%2C57ff00%3B)
+![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&theme=tailwindcss&hideBg=true&hideTitle=true&line1=next.js%2Cnext.js%2Cffffff%3Breact%2Creact%2C00eaff%3Btypescript%2Ctypescript%2C006dff%3Bjavascript%2Cjavascript%2Cffd500%3Bmui%2Cmaterial%2C008aff%3Bmantine%2Cmantine%2C127b5c%3Bnode.js%2Cnode.js%2C14ff00%3Bexpress%2Cexpress%2Cffe800%3Bline%2Cmessaging+api+%26+LIFF%2C57ff00%3B)
 
 
 
