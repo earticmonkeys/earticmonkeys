@@ -7,7 +7,7 @@
 
 </p>
 
-I am a Front-End Developer ( almost full-stack 🤣 ) at iCare Insurance , at this moment I'm be familiar with Javascript, Typescript so I've a responsibility in Developed a LINE Messaging API & LIFF (Line Frontend Framework), OPN Payment (Webhook, Dashboard Report) with Next.JS and Postgresql additional with Hono to manage a api route ( it easy to use and less complexibility) 
+I am a Front-End Developer ( almost full-stack 🤣 ) at iCare Insurance , at this moment I'm be familiar with Javascript, Typescript so I've a responsibility in Developed a LINE Messaging API & LIFF (Line Frontend Framework), OPN Payment (Webhook, Dashboard Report) with Next.JS and Postgresql additional with Hono to manage a api route ( it easy to use and less complexibility ) also BullMQ to manage background task like schedule notification (for LINE), background payment service (Omise, Omise Webhook).
 
 
 🎈 In addition to Software Development, I am interest in UX/UI Design, Quality Assurance also Art and Music.
