@@ -3,7 +3,7 @@
 
 <p align=”center”>
 
-![TERRA-EXRTH.png](https://img2.pic.in.th/pic/TERRA-EXRTH.png)
+![TERRA-EXRTH.png]("https://i.ibb.co/Jgh1r4t/TERRA-EXRTH.jpg")
 
 </p>
 
